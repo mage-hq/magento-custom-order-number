@@ -1,5 +1,5 @@
 # magento-custom-order-number
-Magento 2 Custom Order Number extension free allows you to customize order numbers, invoice, shipment and credit memo numbers like add prefix, suffix, add order date, etc.
+Magento 2 Custom Order Number extension is a useful extension that lets you modify the numbers of orders, invoices, shipments and credit memos using prefix and custom initial numbers.
 
 Please go to https://magehq.com/magento-2-custom-order-number.html download free extension
 
